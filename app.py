@@ -120,4 +120,4 @@ elif menu == "Education":
         st.write("Join communities and forums to connect with peers and share learning experiences.")
         st.write("Examples:")
         st.write("- [Reddit Learning Communities](https://www.reddit.com/r/learnprogramming)")
-        st.write("- [Khan Academy Discussions](https://www.khanacademy.org)")}]}
+        st.write("- [Khan Academy Discussions](https://www.khanacademy.org)")
